@@ -14,6 +14,19 @@ A full-stack ERP/CRM application developed for the **Fundsroom Full Stack Develo
 
 ---
 
+## 🔑 Test Credentials
+
+Since there is no public registration, use the following credentials to log in and explore each role:
+
+| Role | Email | Password |
+|------|-------|----------|
+| **Admin** | admin@fundsroom.com | Password123! |
+| **Sales** | sales@gmail.com | sales123 |
+| **Warehouse** | warehouse@gmail.com | warehouse123 |
+| **Accounts** | account@gmail.com | account123 |
+
+---
+
 ## 📋 Overview
 
 This platform consolidates the core operations of a wholesale/distribution business into a single role-based application. The frontend communicates with the backend through REST APIs, while the backend handles authentication, authorization, business logic, validation, and database operations.
